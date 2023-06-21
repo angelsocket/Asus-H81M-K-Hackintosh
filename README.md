@@ -18,7 +18,7 @@
 - VGA Port not working! Use DVI-D
 
 ## 🔨 Patch iGPU
-1. Download OCLP 0.6.7 after installation macOS on drive | [Click to download](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/0.6.7)
+1. Download OCLP 0.6.7 after installation macOS on drive | [Click to download OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/0.6.7)
 2. Open OCLP
 3. Click Post-Install Root Patch
 4. Click Start Root Patching
