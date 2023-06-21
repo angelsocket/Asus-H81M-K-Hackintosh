@@ -17,7 +17,10 @@
 - SIP 0x803 is already implemented in config.plist
 - VGA Port not working! Use DVI-D
 
-## 🔨 Patch iGPU
+## 💽 Installation macOS
+- Instructions coming soon!
+
+## 🪄 Patch iGPU
 1. Download OCLP 0.6.7 after installation macOS on drive | [Click to download OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/0.6.7)
 2. Open OCLP
 3. Click Post-Install Root Patch
