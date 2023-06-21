@@ -14,9 +14,15 @@
 
 ## 🖥 SMBIOS & Other
 - Use iMac18.1 as SMBIOS [GenSMBIOS](https://https://github.com/corpnewt/GenSMBIOS)
-- Use OCLP for patch GPU
 - SIP 0x803 is already implemented in config.plist
 - VGA Port not working! Use DVI-D
+
+## 🔨 Patch iGPU
+1. Download OCLP 0.6.7 after installation macOS on drive [Click to download]([https://https://github.com/corpnewt/GenSMBIOS](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/0.6.7))
+2. Open OCLP
+3. Click Post-Install Root Patch
+4. Click Start Root Patching
+5. Done! The computer will restart automatically
 
 ## 💖 Credits
 - Apple for macOS
