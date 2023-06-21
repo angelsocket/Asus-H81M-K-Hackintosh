@@ -17,6 +17,19 @@
 - SIP 0x803 is already implemented in config.plist
 - VGA Port not working! Use DVI-D
 
+## BIOS Settings
+- Install latest BIOS 3604 | [Click to download BIOS](https://www.asus.com/supportonly/h81m-k/helpdesk_bios/)
+- Reset BIOS to default and check this settings:
+```
+• CSM(Compability Support Module): Disabled
+• iGPU Memory: 96MB
+• CPU MSR Lock: Disabled
+• Sata Configuration: AHCI
+• USB Mode: Smart Auto
+• Fast Boot: Disabled
+• Secure Boot: Other OS
+```
+  
 ## 💽 Installation macOS
 - Instructions coming soon!
 
