@@ -1,4 +1,4 @@
-# 👋 Hello! This is Hackintosh EFI for Asus H81M-K
+# 👋 Hello! This is Hackintosh for Asus H81M-K
 ![Banner](Banner.png)
 
 ## 🛠 Kexts
@@ -17,11 +17,11 @@
 - SIP 0x803 is already implemented in config.plist
 - VGA Port not working! Use DVI-D
 
-## BIOS Settings
+## 🎛 BIOS Settings
 - Install latest BIOS 3604 | [Click to download BIOS](https://www.asus.com/supportonly/h81m-k/helpdesk_bios/)
 - Reset BIOS to default and check this settings:
 ```
-• CSM(Compability Support Module): Disabled
+• CSM: Disabled
 • iGPU Memory: 96MB
 • CPU MSR Lock: Disabled
 • Sata Configuration: AHCI
