@@ -65,7 +65,7 @@
   
 ## 💽 Installation macOS
 - [**Click**](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/): Creating a macOS installer
-- [**Click**](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html#double-checking-your-work): Installation macOS
+- [**Click**](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html): Installation macOS
 
 ## 🪄 Post Install
 - [**ReadMe Post Install**](/Files/PostInstall.md): Requirements before installing.
