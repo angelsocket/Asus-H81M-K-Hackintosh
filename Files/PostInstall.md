@@ -10,8 +10,7 @@
 > ## 🍎 Enable Apple Services (iMessage/iCloud/FaceTime)
 
 - Download GenSMBIOS | [Click to download](https://github.com/corpnewt/GenSMBIOS)
-- Open GenSMBIOS.command
-
+- Open `GenSMBIOS.command`
 - Type `1` to install MacSerial, then press ENTER.
 - Type `3` to Generate SMBIOS, then press ENTER.
 - Type `iMac18,1`, then press ENTER.
