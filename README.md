@@ -31,8 +31,8 @@
 | Sound (ALC887)                       | 🟢  | `AppleALC.kext` & alcid=53 |
 | USB Ports                            | 🟢  | Native |
 | Ethernet                             | 🟢  | `RealtekRTL8111.kext` | 
-| Sleep                                | 🟢  | Working |
-| VGA Port                             | 🔴  | Not Working |
+| Sleep                                | 🟢  | Native |
+| VGA Port                             | 🔴  | Does not exist on real apple computers |
 
 > ### macOS Continuity
 
