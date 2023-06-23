@@ -9,7 +9,6 @@
 
 ## 💾 Software
 - Bootloader: OpenCore 0.9.3
-- Patches: OCLP 0.6.7
 - macOS: Ventura 13.4.1
 - BIOS: 3604
 
