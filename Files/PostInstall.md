@@ -50,8 +50,34 @@
 
 - Save and reboot.
 
+> ## Disable verbose
+- Mount EFI
+- Open `/EFI/OC/Config.plist` with any editor and navigate to `NVRAM -> Add -> 7C436110-AB2A-4BBB-A880-FE41995C9F82`
+- Change boot-args to the ones below
+
+```diff
+			</dict>
+			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
+			<dict>
+				<key>#INFO (prev-lang:kbd)</key>
+				<string>en:252 (ABC), set 656e3a323532</string>
+				<key>ForceDisplayRotationInEFI</key>
+				<integer>0</integer>
+				<key>SystemAudioVolume</key>
+				<data>Rg==</data>
+				<key>boot-args</key>
++				<string>alcid=53 amfi_get_out_of_my_way=0x1</string>
+				<key>csr-active-config</key>
+				<data>AwgAAA==</data>
+				<key>prev-lang:kbd</key>
+				<data></data>
+				<key>run-efi-updater</key>
+				<string>No</string>
+			</dict>
+```
+
 > ## 📁 Extra
-How open EFI?
+How mount EFI?
 - Use `MountEFI` | [Click to download MountEFI](https://github.com/Andrej-Antipov/MountEFI/releases/tag/1.8)
 
 Do I need to apply the iGPU patch again after a system update?
