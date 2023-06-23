@@ -9,11 +9,8 @@
 
 > ## 🍎 Enable Apple Services (iMessage/iCloud/FaceTime)
 
-- Run the following script in Terminal:
-
-```bash
-git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenSMBIOS.command && ./GenSMBIOS.command
-```
+- Download GenSMBIOS | [Click to download](https://github.com/corpnewt/GenSMBIOS)
+- Open GenSMBIOS.command
 
 - Type `1` to install MacSerial, then press ENTER.
 - Type `3` to Generate SMBIOS, then press ENTER.
