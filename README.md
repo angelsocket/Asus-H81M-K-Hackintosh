@@ -68,10 +68,10 @@
 - [**Click**](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html): Installation macOS
 
 ## 🪄 Post Install
-- [**ReadMe Post Install**](/Files/PostInstall.md): Requirements before installing.
+- [**Click**](/Files/PostInstall.md): Requirements after installing.
 
 ## 🙋‍♂️ Contact
-- Telegram: [@angelsocket](https://t.me/angelsocket)
+- [**@angelsocket**](https://t.me/angelsocket): Telegram
 
 ## 💖 Credits
 - Apple for macOS
