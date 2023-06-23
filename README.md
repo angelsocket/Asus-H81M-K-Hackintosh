@@ -8,6 +8,12 @@
 - SSD: 120GB Samsung MZ7LN128HAHQ-000L2
 - Sound: ALC887 (Layout: 53)
 
+## 💾 Software
+- Bootloader: OpenCore 0.9.3
+- Patches: OCLP 0.6.7
+- macOS: Ventura 13.4.1
+- BIOS: 3604
+
 ## 📃 What works and what doesn't
 
 <details>
@@ -26,7 +32,7 @@
 | Sound (ALC887)                       | 🟢  | `AppleALC.kext` & alcid=53 |
 | USB Ports                            | 🟢  | Native |
 | Ethernet                             | 🟢  | `RealtekRTL8111.kext` | 
-| Sleep                                | 🟠  | Working partially |
+| Sleep                                | 🟢  | Working |
 | VGA Port                             | 🔴  | Not Working |
 
 > ### macOS Continuity
