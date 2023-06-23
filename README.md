@@ -69,14 +69,10 @@
 - SIP 0x803 is already implemented in config.plist
   
 ## 💽 Installation macOS
-- Instructions coming soon!
+- [**Dortania's OpenCore Install Guide**](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/): Creating a macOS installer
 
-## 🪄 Patch iGPU
-1. Download OCLP 0.6.7 after installation macOS on drive | [Click to download OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/0.6.7)
-2. Open OCLP
-3. Click Post-Install Root Patch
-4. Click Start Root Patching
-5. Done! The computer will restart automatically
+## 🪄 Post Install
+- [**ReadMe Post Install**](/Others/PostInstall.md): Requirements before installing.
 
 ## 💖 Credits
 - Apple for macOS
