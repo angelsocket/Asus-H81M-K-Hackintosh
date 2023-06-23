@@ -50,7 +50,7 @@
 
 - Save and reboot.
 
-> ## Disable verbose
+> ## 🔩 Disable verbose
 - Mount EFI
 - Open `/EFI/OC/Config.plist` with any editor and navigate to `NVRAM -> Add -> 7C436110-AB2A-4BBB-A880-FE41995C9F82`
 - Change boot-args to the ones below
