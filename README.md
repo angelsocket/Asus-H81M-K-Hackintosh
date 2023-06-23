@@ -70,6 +70,9 @@
 ## 🪄 Post Install
 - [**ReadMe Post Install**](/Files/PostInstall.md): Requirements before installing.
 
+## 🙋‍♂️ Contact
+- Telegram: [@angelsocket](https://t.me/angelsocket)
+
 ## 💖 Credits
 - Apple for macOS
 - Acidanthera team for OpenCore
