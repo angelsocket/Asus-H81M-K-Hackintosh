@@ -9,7 +9,7 @@
 
 > ## 🍎 Enable Apple Services (iMessage/iCloud/FaceTime)
 
-- Download GenSMBIOS | [Click to download](https://github.com/corpnewt/GenSMBIOS)
+- Download GenSMBIOS | [Click to download GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 - Open `GenSMBIOS.command`
 - Type `1` to install MacSerial, then press ENTER.
 - Type `3` to Generate SMBIOS, then press ENTER.
@@ -49,3 +49,10 @@
 ```
 
 - Save and reboot.
+
+> ## 📁 Extra
+How open EFI?
+- Use `MountEFI` | [Click to download MountEFI](https://github.com/Andrej-Antipov/MountEFI/releases/tag/1.8)
+
+Do I need to apply the iGPU patch again after a system update?
+- Yes
