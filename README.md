@@ -1,5 +1,5 @@
 # 👋 Hello! This is Hackintosh for Asus H81M-K
-![Banner](Banner.png)
+![Banner](Files/Banner.png)
 ## ⚙️ Hardware
 - Motherboard: ASUS H81M-K
 - CPU: Intel Core i5 4570
@@ -63,16 +63,12 @@
 | VGA Port                             | Disabled |
 | Secure Boot                          | Other OS |
 </details>
-
-## 🖥 SMBIOS & Other
-- Use iMac18.1 as SMBIOS | [Click to Download GenSMBIOS](https://https://github.com/corpnewt/GenSMBIOS)
-- SIP 0x803 is already implemented in config.plist
   
 ## 💽 Installation macOS
 - [**Dortania's OpenCore Install Guide**](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/): Creating a macOS installer
 
 ## 🪄 Post Install
-- [**ReadMe Post Install**](/Others/PostInstall.md): Requirements before installing.
+- [**ReadMe Post Install**](/Files/PostInstall.md): Requirements before installing.
 
 ## 💖 Credits
 - Apple for macOS
