@@ -6,7 +6,6 @@
 - GPU: Intel HD Graphics 4600 (Patched using OCLP)
 - RAM: 16GB 1600 DDR3 Kingston KVR16N11/8
 - SSD: 120GB Samsung MZ7LN128HAHQ-000L2
-- Sound: ALC887 (Layout: 53)
 
 ## 💾 Software
 - Bootloader: OpenCore 0.9.3
