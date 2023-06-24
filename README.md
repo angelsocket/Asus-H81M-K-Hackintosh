@@ -59,3 +59,4 @@
 - Apple for macOS
 - Acidanthera team for OpenCore
 - CorpNewt for GenSMBIOS
+- xzhih for one-key-hidpi
