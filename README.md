@@ -42,26 +42,8 @@
 | AirDrop                              | 🟠   | Needed WiFi and Bluetooth  |
 </details>
 
-## 🎛 BIOS Settings
-- Install latest BIOS 3604 | [Click to download BIOS](https://www.asus.com/supportonly/h81m-k/helpdesk_bios/)
-- Reset BIOS to default and check this settings:
-
-<details>
-<summary><strong> Click to open! </strong></summary>
-<br>
-  
-> ### BIOS Settings
-
-| Setting                              | Option |
-| :----------------------------------- | ------ |
-| CSM                                  | Disabled |
-| iGPU Memory                          | 96MB |
-| CPU MSR Lock                         | Disabled |
-| Sata Configuration                   | AHCI | 
-| USB Mode                             | Smart Auto |
-| VGA Port                             | Disabled |
-| Secure Boot                          | Other OS |
-</details>
+## 🎛 Before Install
+- [**Click**](/Files/BeforeInstall.md): Requirements before installing.
   
 ## 💽 Installation macOS
 - [**Click**](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/): Creating a macOS installer
