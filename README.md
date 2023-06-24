@@ -59,4 +59,5 @@
 - Apple for macOS
 - Acidanthera team for OpenCore
 - CorpNewt for GenSMBIOS
+- Andrej-Antipov for MountEFI
 - xzhih for one-key-hidpi
