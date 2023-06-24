@@ -17,12 +17,12 @@
 <details>
 <summary><strong> Click to open! </strong></summary>
 <br>
-  
-> ### Hardware
 
 - 🟢 - Fully working
 - 🟠 - Partially working
 - 🔴 - Not working
+
+> ### Hardware
 
 | Feature                              | Status | Dependency          |
 | :----------------------------------- | ------ | ------------------- |
