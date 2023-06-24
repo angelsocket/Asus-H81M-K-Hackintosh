@@ -82,3 +82,6 @@ How mount EFI?
 
 Do I need to apply the iGPU patch again after a system update?
 - Yes
+
+I can enable HiDPI?
+- Yes, use one-key-hidpi | [Click to download one-key-hidpi](https://github.com/xzhih/one-key-hidpi)
