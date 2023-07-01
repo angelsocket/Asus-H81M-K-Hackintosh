@@ -13,7 +13,7 @@
 - Open `GenSMBIOS.command`
 - Type `1` to install MacSerial, then press ENTER.
 - Type `3` to Generate SMBIOS, then press ENTER.
-- Type `iMac18,1`, then press ENTER.
+- Type `iMac20,1`, then press ENTER.
 - Open `/EFI/OC/Config.plist` with any editor and navigate to `PlatformInfo -> Generic`
 - Add the script's last result to `MLB, SystemSerialNumber and SystemUUID`
 
@@ -32,13 +32,13 @@
       <key>ProcessorType</key>
       <integer>0</integer>
       <key>ROM</key>
-      <data>ESIzRFVm</data>
+      <data>00000000</data>
       <key>SpoofVendor</key>
       <true/>
       <key>SystemMemoryStatus</key>
       <string>Auto</string>
       <key>SystemProductName</key>
-      <string>iMac18,1</string>
+      <string>iMac20,1</string>
       <key>SystemSerialNumber</key>
 +     <string>000000000000</string>
       <key>SystemUUID</key>
