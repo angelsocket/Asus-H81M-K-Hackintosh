@@ -39,6 +39,7 @@
 | :----------------------------------- | ------ | ------------------- |
 | iCloud, iMessage, FaceTime           | 🟢   | Whitelisted Apple ID, Valid SMBIOS  |
 | Time Machine                         | 🟢   | Native  |
+| Continuity Camera                    | 🟢   | `FeatureUnlock.kext`  |
 | AirDrop                              | 🟠   | Needed WiFi and Bluetooth  |
 </details>
 
